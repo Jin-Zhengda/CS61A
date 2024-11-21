@@ -1,4 +1,4 @@
-### UCB CS61B: Structure and Interpretation of Computer Programs, Spring 2023 
+### UCB CS61A: Structure and Interpretation of Computer Programs, Spring 2023 
 
 课程主页 [https://cs61a.org/](https://cs61a.org/)
 
